@@ -63,50 +63,5 @@
   </a>
 </p>
 
-
-```mermaid
-graph TD;
-    A[About Vishwajeet Kotkar] --> B(Skills & Expertise);
-    B --> C[Java];
-    B --> D[Kotlin];
-    B --> E[Spring Boot & Micronaut];
-    B --> F[Hibernate];
-    B --> G[PostgreSQL & MySQL];
-    B --> H[JUnit 5 & Mockito];
-    B --> I[Reactive WebFlux];
-    B --> J[Test Driven Development];
-    B --> K[DevOps];
-
-    A --> L(Work Experience);
-    L --> M[Vervetronics Imagineering Pvt Ltd];
-    M --> N[IoT Sensors Monitoring System];
-    M --> O[Ticket Provisioning System];
-    L --> P[GTL Software Pvt Ltd];
-
-    A --> Q(Current Projects);
-    Q --> R[WebFlux-based Reactive Systems];
-    Q --> S[Exploring GitHub Actions];
-
-    A --> T(Education);
-    T --> U[Master's Degree in Computer Science];
-
-    A --> V(Interests & Hobbies);
-    V --> W[Reading];
-    V --> X[Cooking];
-
-    A --> Y(Contact Information);
-    Y --> Z[Email: vishwajeetak@gmail.com];
-    Y --> AA[LinkedIn: Vishwajeet Kotkar];
-    Y --> AB[GitHub: Vishwajeet-29-pro];
-
-    %% Color settings using background colors
-    style A fill:#f9a825,stroke:#333,stroke-width:2px;
-    style B fill:#4caf50,stroke:#2e7d32,stroke-width:2px;
-    style L fill:#2196f3,stroke:#0d47a1,stroke-width:2px;
-    style Q fill:#ff7043,stroke:#bf360c,stroke-width:2px;
-    style T fill:#8e24aa,stroke:#4a148c,stroke-width:2px;
-    style V fill:#ffeb3b,stroke:#fbc02d,stroke-width:2px;
-    style Y fill:#f06292,stroke:#ad1457,stroke-width:2px;
-```
 ![Snake animation](https://github.com/Vishwajeet-29-pro/Vishwajeet-29-pro/blob/output/github-contribution-grid-snake.svg)
 
