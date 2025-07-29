@@ -42,6 +42,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> </a>
     <a href="https://gradle.org/" target="_blank"> <img src="https://gradle.com/_next/static/media/logo-gradle.c1f12d23.svg" alt="Gradle" width="40" height="40"/> </a>
     <a href="https://micronaut.io/" target="_blank"> <img src="https://micronaut.io/wp-content/uploads/2020/11/MIcronautLogo_Horizontal.svg" alt="Micronaut" width="40" height="40"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> </a>
 </p>
 
 ---
